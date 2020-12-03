@@ -1,4 +1,4 @@
 import time
 start_time = time.time()
 # code to be analysed
-print("--- %s seconds ---" % (time.time() - start_time))
+print("--- %.2f seconds ---" % (time.time() - start_time))
